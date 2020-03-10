@@ -1,0 +1,35 @@
+.head{
+    height: 369px;
+    font-family: 'IBM Plex Mono', monospace;
+    margin-left: 200px;
+    margin-top: 120px;
+}
+.head button{
+    background-color: #00F3BB;
+    width: 226px;
+    height: 56px;
+
+}
+
+.head button a {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 18px;
+    color: #060A24;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 24px;
+}
+.head p h4{
+    font-family: 'IBM Plex Mono';
+    font-size: 16px;
+    color: #060A24;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.head p h1{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 64px;
+    color: #060A24;
+    letter-spacing: 0;
+}

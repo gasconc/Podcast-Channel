@@ -1,0 +1,26 @@
+.episodes{
+    height: 1042.6px;
+    width: 100%;
+    background-color: blue;
+    clip-path: polygon(
+        0% 10%, 
+        100% 0%, 
+        100% 90%,
+        0% 100%
+    );
+  
+}
+
+.frames{
+     margin-left: 100px;
+     margin-right: 100px;
+     display: grid;
+     grid-template-columns: auto auto;
+     grid-template-rows: auto auto;
+     grid-gap: 72px;
+
+}
+.episodes iframe{
+    width: 584px;
+    height: 232px;
+}
